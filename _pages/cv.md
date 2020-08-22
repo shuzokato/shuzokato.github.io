@@ -12,29 +12,24 @@ redirect_from:
 Education
 ======
 * B.S. in Engineering, Keio University, 2020
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Physics, Kyushu University, 2020-Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feburary 2020 - Present : Software engineer
+  * Creationline, inc.
+  * Main field: Development of application infrastracture using Kubernetes and other cloud-native technology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2019 - July 2019: Research internship student
+  * Department of Physics, Technical University of Munich
+  * Main field: Computational biophysics
+  * Supervisor: Prof. Zacharias
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experimental biophysics
+* Computational biophysics
+* Kubernetes and Cloud-native development
 
 Publications
 ======
@@ -56,4 +51,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*
+
+Honors
+======
+* Fujiwara award, Keio university, 2020
