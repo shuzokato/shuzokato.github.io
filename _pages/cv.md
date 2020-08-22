@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering, Keio University, 2020
-* M.S. in Physics, Kyushu University, 2020-Present
+* B.S. in Mechanical Engineering, Keio University, 2020
+* M.S. in Physics, Kyushu University, 2020 - Present
 
 Work experience
 ======
