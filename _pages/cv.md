@@ -49,10 +49,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-*
 
-Honors
+Awards
 ======
 * Fujiwara award, Keio university, 2020
