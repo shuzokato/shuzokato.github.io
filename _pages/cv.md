@@ -37,13 +37,16 @@ Publications
   
 Talks
 ======
-
+* [Poster presentation] Molecular Simulation Summer School@Mikuni Kanko Hotel, September 2018.
+* [Poster presentation] The Molecular Simulation Society of Japan@Nagoya City Hall, December 2019.
+* [Oral presentation] The Physical Society of Japan@online, September 2020.
   
 Teaching
 ======
+* Teaching assistant at "Molecular Simulation", Department of Mechanical Engineering, Keio University, November, 2019.
 
   
 
 Awards
 ======
-* Fujiwara award, Keio university, 2020
+* Fujiwara award, Keio university, 2020.
