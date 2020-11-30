@@ -40,9 +40,19 @@ Internship experience (academic)
   
 Skills
 ======
-* Experimental biophysics
-* Computational biophysics
-* Kubernetes and Cloud-native development
+* Physics & Engineering
+  * Experimental biophysics
+  * Computational biophysics
+* Web Development
+  * AWS, GCP
+  * Kubernetes, Docker, Helm
+  * IoT (raspberry-pi)
+* Language (programming)
+  * Python, Go, C/C++
+* Language (natural)
+  * Japanese (native)
+  * English (fluent, TOEFL 85, TOEIC 915)
+  * German (conversational)
 
 Publications
 ======
