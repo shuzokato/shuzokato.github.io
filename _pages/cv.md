@@ -44,7 +44,7 @@ Skills
   * Experimental biophysics
   * Computational biophysics
 * Web Development
-  * AWS, GCP
+  * Linux, AWS, GCP
   * Kubernetes, Docker, Helm
   * IoT (raspberry-pi)
 * Language (programming)
