@@ -25,7 +25,7 @@ Internship experience (short-term)
 * September 2020, 3 days : Software Engineer
   * Nikkei, Inc.
   * Work: developed simple web application with Python
-* September 2020, 7 days : Software Engineer
+* September 2020, 7 days : Infrastructure Engineer
   * CyberAgent, Inc.
   * Work: developed CI/CD pipline for raspberry-pi k8s cluster with Gitlab CI and Argo CD
 * Janualy 2021, 3 weeks : Site Reliability Engineer
