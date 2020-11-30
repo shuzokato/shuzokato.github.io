@@ -69,8 +69,12 @@ Teaching
 ======
 * Teaching assistant at "Molecular Simulation", Department of Mechanical Engineering, Keio University, November, 2019.
 
-  
-
 Awards
 ======
 * Fujiwara award, Keio University, 2020.
+
+Others
+======
+* Triathlon
+  * Athlete in Natinal championships of Triathlon (long distance), Sado, 2018.
+  * Guide Athlete in para-triathlon, 2017.
