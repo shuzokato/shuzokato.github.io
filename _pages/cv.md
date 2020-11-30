@@ -14,12 +14,25 @@ Education
 * B.S. in Mechanical Engineering, Keio University, 2020
 * M.S. in Physics, Kyushu University, Present
 
-Work experience
+Internship experience (long-term)
 ======
 * Feburary 2020 - Present : Internship, Software Engineer
   * Creationline, inc.
   * Main field: Development of application infrastracture using Kubernetes and other cloud-native technology
 
+Internship experience (short-term)
+======
+* September 2020, 3 days : Software Engineer
+  * Nikkei, Inc.
+  * Work: developed simple web application with Python
+* September 2020, 7 days : Software Engineer
+  * CyberAgent, Inc.
+  * Work: developed CI/CD pipline for raspberry-pi k8s cluster with Gitlab CI and Argo CD
+* Janualy 2021, 3 weeks : Site Reliability Engineer
+  * coming soon.....
+
+Internship experience (academic)
+======
 * January 2019 - July 2019: Internship, Research Student
   * Department of Physics, Technical University of Munich
   * Main field: Computational biophysics
@@ -40,6 +53,7 @@ Talks
 * [Poster presentation] Molecular Simulation Summer School@Mikuni Kanko Hotel, September 2018.
 * [Poster presentation] The Molecular Simulation Society of Japan@Nagoya City Hall, December 2019.
 * [Oral presentation] The Physical Society of Japan@online, September 2020.
+* [Oral presentation] The Physical Society of Japan@online, March 2021 (coming).
   
 Teaching
 ======
@@ -49,4 +63,4 @@ Teaching
 
 Awards
 ======
-* Fujiwara award, Keio university, 2020.
+* Fujiwara award, Keio University, 2020.
