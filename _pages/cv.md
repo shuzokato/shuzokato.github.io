@@ -45,7 +45,7 @@ Skills
   * Computational biophysics
 * Web Development
   * Linux, AWS, GCP
-  * Kubernetes, Docker, Helm
+  * Kubernetes, Docker, Helm (CKA certified at Oct. 2020.)
   * IoT (raspberry-pi)
 * Language (programming)
   * Python, Go, C/C++
