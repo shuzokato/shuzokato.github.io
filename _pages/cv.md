@@ -51,12 +51,12 @@ Skills
   * Python, Go, C/C++
 * Language (natural)
   * Japanese (native)
-  * English (fluent, TOEFL 85, TOEIC 915)
+  * English (fluent, TOEFL 86, TOEIC 915)
   * German (conversational)
 
 Publications
 ======
-In preparation.
+Shuzo Kato, et al., "Phase separation and exclusive protein localizations in compartmentalized cell-free expression reactions", submitted (arXiv:2101.05184 [cond-mat.soft]).
   
 Talks
 ======
