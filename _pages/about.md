@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st-year MSc student at Department of Physics, Kyushu university.  
-I'm mainly working in the fields of soft matter physics and synthetic biology to unveiing physical principles in biological living matter.
-My recent work is here[https://arxiv.org/abs/2101.05184].
+I am a 1st-year MSc student at Department of Physics, Kyushu university.   
+I'm mainly working in the fields of soft matter physics and synthetic biology to unveiing physical principles in biological living matter. 
+My recent work is [here](https://arxiv.org/abs/2101.05184). 
 I am also a software engineer, mainly working on cloud-native application development. 
 
