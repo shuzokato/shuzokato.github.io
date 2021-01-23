@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * B.S. in Mechanical Engineering, Keio University, 2020
 * M.S. in Physics, Kyushu University, Present
