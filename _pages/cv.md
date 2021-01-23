@@ -14,13 +14,20 @@ redirect_from:
 * B.S. in Mechanical Engineering, Keio University, 2020
 * M.S. in Physics, Kyushu University, Present
 
-Internship experience (long-term)
+## Internship experience (academic)
+======
+* January 2019 - July 2019: Internship, Research Student
+  * Department of Physics, Technical University of Munich
+  * Main field: Computational biophysics
+  * Supervisor: Prof. Zacharias
+
+## Internship experience (long-term)
 ======
 * Feburary 2020 - Present : Internship, Software Engineer
   * Creationline, inc.
   * Main field: Development of application infrastracture using Kubernetes and other cloud-native technology
 
-Internship experience (short-term)
+## Internship experience (short-term)
 ======
 * September 2020, 3 days : Software Engineer
   * Nikkei, Inc.
@@ -30,23 +37,17 @@ Internship experience (short-term)
   * Work: developed CI/CD pipline for raspberry-pi k8s cluster with Gitlab CI and Argo CD
 * Janualy 2021, 3 weeks : Site Reliability Engineer
   * ZOZO Technologies, Inc.
-
-Internship experience (academic)
-======
-* January 2019 - July 2019: Internship, Research Student
-  * Department of Physics, Technical University of Munich
-  * Main field: Computational biophysics
-  * Supervisor: Prof. Zacharias
   
-Skills
+## Skills
 ======
 * Physics & Engineering
   * Experimental biophysics
   * Computational biophysics
+  * Development of microfluidic devices
 * Web Development
   * Linux, AWS, GCP
   * Kubernetes, Docker, Helm (CKA certified at Oct. 2020.)
-  * IoT (raspberry-pi)
+  * IoT (Raspberry Pi)
 * Language (programming)
   * Python, Go, C/C++
 * Language (natural)
@@ -54,27 +55,27 @@ Skills
   * English (fluent, TOEFL 86, TOEIC 915)
   * German (conversational)
 
-Publications
+## Publications
 ======
 Shuzo Kato, et al., "Phase separation and exclusive protein localizations in compartmentalized cell-free expression reactions", submitted (https://arxiv.org/abs/2101.05184).
   
-Talks
+## Talks
 ======
 * [Poster presentation] Molecular Simulation Summer School@Mikuni Kanko Hotel, September 2018.
 * [Poster presentation] The Molecular Simulation Society of Japan@Nagoya City Hall, December 2019.
 * [Oral presentation] The Physical Society of Japan@online, September 2020.
 * [Oral presentation] The Physical Society of Japan@online, March 2021 (coming).
   
-Teaching
+## Teaching
 ======
 * Teaching assistant at "Molecular Simulation", Department of Mechanical Engineering, Keio University, November, 2019.
 
-Awards
+## Awards
 ======
 * Fujiwara award, Keio University, 2020.
 
-Others
+## Others
 ======
 * Triathlon
-  * Athlete in Natinal championships of Triathlon (long distance), Sado, 2018.
+  * Athlete in Natinal championships of Triathlon (Long Distance), Sado, Japan, 2018.
   * Guide Athlete in para-triathlon, 2017.
