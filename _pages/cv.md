@@ -64,7 +64,7 @@ Shuzo Kato, et al., "Phase separation and exclusive protein localizations in com
 * [Poster presentation] Molecular Simulation Summer School@Mikuni Kanko Hotel, September 2018.
 * [Poster presentation] The Molecular Simulation Society of Japan@Nagoya City Hall, December 2019.
 * [Oral presentation] The Physical Society of Japan@online, September 2020.
-* [Oral presentation] The Physical Society of Japan@online, March 2021 (coming).
+* [Oral presentation] The Physical Society of Japan@online, March 2021.
   
 ## Teaching
 * Teaching assistant at "Molecular Simulation", Department of Mechanical Engineering, Keio University, November, 2019.
