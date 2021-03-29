@@ -55,7 +55,7 @@ redirect_from:
   * German (conversational)
 
 ## Publications
-Shuzo Kato, et al., "Phase separation and exclusive protein localizations in compartmentalized cell-free expression reactions", submitted. [arxiv](https://arxiv.org/abs/2101.05184)
+Shuzo Kato, et al., "Phase separation and exclusive protein localizations in compartmentalized cell-free expression reactions", in revision. [arxiv](https://arxiv.org/abs/2101.05184)
 
 ## Web articles
 ステップアップしながら段階的に学ぶ Kubernetes実践入門, ThinkIT. [link](https://thinkit.co.jp/series/10034)
