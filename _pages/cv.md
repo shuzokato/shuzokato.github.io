@@ -58,7 +58,7 @@ redirect_from:
 Shuzo Kato, et al., "Phase separation and exclusive protein localizations in compartmentalized cell-free expression reactions", submitted. [arxiv](https://arxiv.org/abs/2101.05184)
 
 ## Web articles
-ステップアップしながら段階的に学ぶ Kubernetes実践入門, https://thinkit.co.jp/series/10034
+ステップアップしながら段階的に学ぶ Kubernetes実践入門, ThinkIT. [link](https://thinkit.co.jp/series/10034)
   
 ## Talks
 * [Poster presentation] Molecular Simulation Summer School@Mikuni Kanko Hotel, September 2018.
