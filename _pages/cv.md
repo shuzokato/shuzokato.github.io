@@ -20,9 +20,11 @@ redirect_from:
   * Supervisor: Prof. Zacharias
 
 ## Internship experience (long-term)
-* Feburary 2020 - Present : Internship, Software Engineer
+* Feburary 2020 - Present : Software Engineer
   * Creationline, inc.
   * Main field: Development of application infrastracture using Kubernetes and other cloud-native technology
+* April 2021
+  * Coming soon...
 
 ## Internship experience (short-term)
 * September 2020, 3 days : Software Engineer
@@ -33,6 +35,8 @@ redirect_from:
   * Work: developed CI/CD pipline for raspberry-pi k8s cluster with Gitlab CI and Argo CD
 * Janualy 2021, 3 weeks : Site Reliability Engineer
   * ZOZO Technologies, Inc.
+* February 2021, 1 month : Software Engineer
+  * Recruit Co.,Ltd.
   
 ## Skills
 * Physics & Engineering
@@ -52,6 +56,9 @@ redirect_from:
 
 ## Publications
 Shuzo Kato, et al., "Phase separation and exclusive protein localizations in compartmentalized cell-free expression reactions", submitted. [arxiv](https://arxiv.org/abs/2101.05184)
+
+## Web articles
+ステップアップしながら段階的に学ぶ Kubernetes実践入門, https://thinkit.co.jp/series/10034
   
 ## Talks
 * [Poster presentation] Molecular Simulation Summer School@Mikuni Kanko Hotel, September 2018.
