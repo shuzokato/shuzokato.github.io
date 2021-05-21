@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st-year MSc student at Department of Physics, Kyushu university.   
-I'm mainly working in the fields of soft matter physics and synthetic biology to understand physical principles in biological living matter.  
+I am a 2nd-year master student at the Department of Physics, Kyushu University.   
+I'm currently working on unveiling physical principles in intracellular phase separation using artificial cell approach.  
 My recent work is available [here](https://arxiv.org/abs/2101.05184)!  
-I am also a software engineer, mainly working on cloud-native application platform development (see [Linkedin](https://www.linkedin.com/in/shuzo-kato-profile/)).  
+I am also a part-time software engineer, mainly working on cloud-native application platform development (see [Linkedin](https://www.linkedin.com/in/shuzo-kato-profile/)).  
+Feel free to contact me!
