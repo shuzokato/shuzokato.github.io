@@ -19,12 +19,12 @@ redirect_from:
   * Main field: Computational biophysics
   * Supervisor: Prof. Zacharias
 
-## Internship experience (long-term)
-* Feburary 2020 - Present : Software Engineer
+## Part-time job and Internship experience (long-term)
+* Feburary 2020 - Present : Software Engineer (part-time)
   * Creationline, inc.
   * Main field: Development of application infrastracture using Kubernetes and other cloud-native technology
-* April 2021
-  * Coming soon...
+* April 2021 - Present : Software Engineer (internship)
+  * LINE Fukuoka Corporation
 
 ## Internship experience (short-term)
 * September 2020, 3 days : Software Engineer
